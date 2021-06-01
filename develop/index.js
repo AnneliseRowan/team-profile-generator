@@ -1,9 +1,9 @@
 const inquirer = require("inquirer"); 
 const fs = require("fs"); 
-const questions = require("./questions.js");
-const badgeIcon = require("./badges.js"); 
-const licenseText = require("./licenses.js"); 
-let badge; 
+const managerPrompts = require("./manager-prompts.js");
+const internPrompts = require("./intern-prompts.js");
+const engineerPrompts = requirer("./engineer-prompts.js"); 
+
 
 const generateHTML = (answers) => 
     `<!DOCTYPE html>
