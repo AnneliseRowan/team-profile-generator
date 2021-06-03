@@ -67,7 +67,7 @@ const getIntern = () => {
     inquirer
         .prompt(internPrompts)
         .then((answers) => {
-            teamInfo.push(new Intern(answers.name, answers.id, answers.email. answers.school)); 
+            teamInfo.push(new Intern(answers.name, answers.id, answers.email, answers.school)); 
 
             nextChoice = answers.engineerIntern; 
 
