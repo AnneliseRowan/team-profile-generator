@@ -21,8 +21,8 @@ module.exports = [
   },
   {
     type: 'list',
-    name: 'engineer-intern',
+    name: 'engineerIntern',
     message: 'Would you like to add an engineer or intern to your team?',
-    choices: ["Engineer", "Intern", "Complete Profile"],
+    choices: ["Engineer", "Intern", "Complete Team"],
   },
 ];

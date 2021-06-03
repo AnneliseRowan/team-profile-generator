@@ -16,13 +16,13 @@ module.exports = [
   },
   {
     type: 'input',
-    name: 'office-number',
+    name: 'officeNumber',
     message: `What is the team manager's office phone number?`,
   },
   {
     type: 'list',
-    name: 'engineer-intern',
+    name: 'engineerIntern',
     message: 'Would you like to add an engineer or intern to your team?',
-    choices: ["Engineer", "Intern", "Exit"],
+    choices: ["Engineer", "Intern"],
   },
 ];
