@@ -10,7 +10,7 @@
     </div>
     <ul class="list-group list-group-flush">
         <li class="list-group-item" id="id">ID: {{ id }}</li>
-        <li class="list-group-item" id="email">EMAIL: {{ email }}</li>
-        <li class="list-group-item" id="github">GITHUB: {{ github }}</li>
+        <li class="list-group-item" id="email">EMAIL: <a href="mailto:{{ email }}">{{ email }}</a></li>
+        <li class="list-group-item" id="github">GITHUB: <a href="https://github.com/{{ github }}" target="_blank" rel="noopener noreferrer">{{ github }}</a></li>
     </ul>
 </div>
