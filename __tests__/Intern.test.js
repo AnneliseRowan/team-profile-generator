@@ -10,5 +10,5 @@ test (`getRole() should return "Intern"`, () => {
 test (`Can get school name"`, () => {
     const test = "schoolName"; 
     const int = new Intern ("Annelise", 1, "Annelise@Annelise.com", test);
-    expect(int.getGithub()).toBe(test); 
+    expect(int.getSchool()).toBe(test); 
 })
