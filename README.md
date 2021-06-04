@@ -17,7 +17,7 @@ Built a Node.js command-line application that takes in information about employe
 
 ![]()
 
-Here is a walk-through video for you: https://youtu.be/Y9WqTk2G0M4
+Here is a walk-through video for you: https://youtu.be/B2oAVtXVL2E
 
 ![](Develop/images/Personalized-ReadMe-Generator.gif)
 
