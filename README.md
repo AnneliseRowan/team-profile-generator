@@ -15,9 +15,9 @@ Built a Node.js command-line application that takes in information about employe
 
 ![](Assets/screencapture-127-0-0-1-5500-output-wholeTeam-html-2021-06-04-15_00_08.png)
 
-![](Assets/Screenshot 2021-06-04 150146.png)
+![](Assets/Screenshot-2021-06-04-150146.png)
 
-![](Assets/Screenshot 2021-06-04 150253.png)
+![](Assets/Screenshot-2021-06-04-150253.png)
 
 Here is a walk-through video for you: https://youtu.be/B2oAVtXVL2E
 
