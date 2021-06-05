@@ -13,7 +13,7 @@ Built a Node.js command-line application that takes in information about employe
 
 ## Example
 
-![](Assets/screencapture-127-0-0-1-5500-output-wholeTeam-html-2021-06-04-15_00_08.png)
+![](Assets/screencapture-127-0-0-1-5500-output-sample-html-2021-06-05-10_01_11.png)
 
 ![](Assets/Screenshot-2021-06-04-150146.png)
 
